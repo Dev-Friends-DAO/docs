@@ -27,7 +27,7 @@ As a DAO, we mean
 - we prefer onchain identity/data/activity as much as possible, rather than offchain
 - we prefer permissionlessness, transparency as much as possible, about things that should be
 - we prefer essential activities and validation, rather than pessimistic motivation and discussion; we welcome productive criticism
-- we all try to adopt and build fair ecosystem, as technically as possible
+- we all try to adopt and build fair, cool ecosystem, as technically as possible
 - there's no illogical discrimination as a person; which means kind of meritocracy but fair
 - we value autonomous motivation and actions; basically we all can't force someone about working time
 - we can communicate and move things forward asyncronously
