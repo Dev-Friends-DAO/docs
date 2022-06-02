@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Joining Process
 
-Docusaurus can manage multiple versions of your docs.
+Dev Friends DAO is in a nascent phase, so active core members are necessary right now.
+
+some pledge for org risk, 
 
 ## Create a docs version
 
