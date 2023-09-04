@@ -23,8 +23,11 @@ This means we build things but also research Web3 and DAO routinely.
 DAO's definition varies from person to person, which is because DAO has changed its shape day by day.
 However, because we lose sense if we all stop thinking and see one type of DAO as a definite DAO, so it's really important that we predefine.
 
+Dev Friends DAO is a DAO that unites subDAO that bootstrap and operate a project.
+
 As a DAO, we mean
 - we prefer onchain identity/data/activity as much as possible, rather than offchain
+- chain-agnostic; we fairly value blockchains
 - we prefer permissionlessness, transparency as much as possible, about things that should be
 - we prefer essential activities and validation, rather than pessimistic motivation and discussion; we welcome productive criticism
 - we all try to adopt and build fair, cool ecosystem, as technically as possible
@@ -33,6 +36,7 @@ As a DAO, we mean
 - we can communicate and move things forward asyncronously
 - there are clear roles and basically Dev Friends DAO's direction is determined by core team members
 - ragequit is welcome and we all appreciate active contributions until then
+- we don't have salary and bounty until we earn with products or succeed in fundraising in the initial phase
 
 ## Intro Done
 

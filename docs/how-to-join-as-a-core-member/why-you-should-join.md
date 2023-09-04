@@ -6,6 +6,14 @@ sidebar_position: 3
 
 Here's why you should build things as a core member in this DAO.
 
+merits and reasons
+- 
+- 
+
+Disclaimer
+
+As we wrote in the intro, we don't have salary and bounty until we earn with products or succeed in fundraising in the initial phase, and we have abundant money in tresury, so long-term active contributions are welcome, as a core member.
+
 ## Create a docs version
 
 Release a version 1.0 of your project:

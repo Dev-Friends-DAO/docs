@@ -61,7 +61,7 @@ const config = {
         title: 'Dev Friends DAO',
         logo: {
           alt: 'Dev Friends DAO Logo',
-          src: 'img/logo.svg',
+          src: 'img/dfd-logo.svg',
         },
         items: [
           {
