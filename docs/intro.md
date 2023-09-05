@@ -23,7 +23,7 @@ This means we build things but also research Web3 and DAO, and other state-of-th
 DAO's definition varies from person to person, which is because DAO has changed its shape day by day.
 However, because we lose sense if we all stop thinking and see one type of DAO as a definite DAO, so it's really important that we predefine.
 
-Dev Friends DAO is a DAO that unites subDAO that bootstrap and operate a project.
+Dev Friends DAO is a DAO that unites subDAOs that bootstrap and operate projects.
 
 As a DAO that provide products, we mean
 - we prefer onchain identity/data/activity as much as possible, rather than offchain
