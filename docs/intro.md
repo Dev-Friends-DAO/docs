@@ -35,13 +35,13 @@ As a DAO that provide products, we mean
 - we value autonomous motivation and actions; basically we all can't force someone about working time, but we should be collaborative and communicative for the project and its other members.
 - we can communicate and move things forward asyncronously
 - there are clear roles and basically Dev Friends DAO's direction is determined by Governors
-- However, DFD members join this DAO as sole proprietors, so they are responsible for the legal liability about all the individual activities they do and the subDAO's activities they are in
+- however, DFD members join this DAO as sole proprietors, so they are responsible for the legal liability about all the individual activities they do and the subDAO's activities they are in
 - ragequit is OK, but you have to contribute till the goal of the subDAO is achieved if you are joining a subDAO
 - DFD's sale as a DAO is comprised of two parts; products' business model and products' buyout
 - rewards to members are payed from the sale directly, regardless of the kinds of currencies; if it's a token via contract and if it's not via our own backend API, but some percent of the sale is accumulated to DFD tresury (might use some payroll product)
 - we all are professional enough in some field to achieve the associated role by themselfs basically
 - the number of the DFD members who belong to a subDAO is 1 to 5; we're professional enough to build things and in some cases 1 is enough
-- However, we are all cooperative, so we try to help other subDAOs we're not belong to because we are friends with each other
+- however, we are all cooperative, so we try to help other subDAOs we're not belong to because we are friends with each other
 
 ## Intro Done
 
