@@ -13,7 +13,7 @@ In this docs, we define missions and guidelines as a DAO.
 In recent years, Web3 and DAOs get popular but still they're in an imature phase.
 
 In terms of Web3, there should be lots of products and services replacing Web2 counterparts and many modules are needed.
-About DAO, same things applies and DAO's ecosystem is not defined that much and in some area systems are broken and not cool, so fundamentally thinking there should be more components and modules for DAOs.
+About DAO, same things apply and DAO's ecosystem is not defined that much and in some area systems are broken and not cool, so fundamentally thinking there should be more components and modules for DAOs.
 
 We, as a DAO, tackle this issue at the same time pursuring how it should be as a DAO.
 This means we build things but also research Web3 and DAO, and other state-of-the-art techs routinely.
