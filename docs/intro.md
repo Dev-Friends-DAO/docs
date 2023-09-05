@@ -42,7 +42,7 @@ As a DAO that provide products, we mean
 - we all are professional enough in some field to achieve the associated role by themselfs basically
 - the number of the DFD members who belong to a subDAO is 1 to 5; we're professional enough to build things and in some cases 1 is enough
 - however, we are all cooperative, so we try to help other subDAOs we're not belong to because we are friends with each other
-- as you can see, DFD want to exist as a sustainable DAO, whereas subDAOs are created and dumped many times
+- as you can see, DFD want to exist as a sustainable and profitable DAO, whereas subDAOs are created and dumped many times
 
 ## Intro Done
 
