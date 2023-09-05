@@ -5,7 +5,7 @@ sidebar_position: 1
 # Why you should join
 
 If you are a builder who have experiences of building your own things or bootstraping/joining a startup, you should have thought more than once like this. 
-- "If I were to work with cooperative and professional fellows, talking about awesome techs products all the time"
+- "If I were to work with cooperative and professional fellows, talking about awesome techs and products all the time"
 - "I just wanted to build awesome things but now what I do is manageing and taking responsibility about what I don't care that much"
 - "I built it, they didn't that much works! Ah I wanted to be born in a fair society where contributions are fairly evaluated"
 - "I have worked in companies in both full-time and freelance way, but all are not suitable to me to be honest"
