@@ -10,7 +10,7 @@ In this docs, we define missions and guidelines as a DAO.
 
 ## Background
 
-As of 2022, Web3 and DAOs get popular but still they're in an imature phase.
+In recent years, Web3 and DAOs get popular but still they're in an imature phase.
 
 In terms of Web3, there should be lots of products and services replacing Web2 counterparts and many modules are needed.
 About DAO, same things applies and DAO's ecosystem is not defined that much and in some area systems are broken and not cool, so fundamentally thinking there should be more components and modules for DAOs.
@@ -25,19 +25,24 @@ However, because we lose sense if we all stop thinking and see one type of DAO a
 
 Dev Friends DAO is a DAO that unites subDAO that bootstrap and operate a project.
 
-As a DAO, we mean
+As a DAO that provide products, we mean
 - we prefer onchain identity/data/activity as much as possible, rather than offchain
-- chain-agnostic; we fairly value blockchains
+- chain-agnostic; we fairly value blockchains and use blockchains in a more suitable way with other technologies
 - we prefer permissionlessness, transparency as much as possible, about things that should be
-- we prefer essential activities and validation, rather than pessimistic motivation and discussion; we welcome productive criticism
+- we prefer essential activities and validations, rather than pessimistic motivation and discussion; we welcome productive criticism, but it has to include better execution
 - we all try to adopt and build fair, cool ecosystem, as technically as possible
 - there's no illogical discrimination as a person; which means kind of meritocracy but fair
-- we value autonomous motivation and actions; basically we all can't force someone about working time
+- we value autonomous motivation and actions; basically we all can't force someone about working time, but we should be collaborative and communicative for the project and its other members.
 - we can communicate and move things forward asyncronously
-- there are clear roles and basically Dev Friends DAO's direction is determined by core team members
-- ragequit is welcome and we all appreciate active contributions until then
-- we don't have salary and bounty until we earn with products or succeed in fundraising in the initial phase
+- there are clear roles and basically Dev Friends DAO's direction is determined by Governors
+- However, DFD members join this DAO as sole proprietors, so they are responsible for the legal liability about all the individual activities they do and the subDAO's activities they are in
+- ragequit is OK, but you have to contribute till the goal of the subDAO is achieved if you are joining a subDAO
+- DFD's sale as a DAO is comprised of two parts; products' business model and products' buyout
+- rewards to members are payed from the sale directly, regardless of the kinds of currencies; if it's a token via contract and if it's not via our own backend API, but some percent of the sale is accumulated to DFD tresury (might use some payroll product)
+- we all are professional enough in some field to achieve the associated role by themselfs basically
+- the number of the DFD members who belong to a subDAO is 1 to 5; we're professional enough to build things and in some cases 1 is enough
+- However, we are all cooperative, so we try to help other subDAOs we're not belong to because we are friends with each other
 
 ## Intro Done
 
-Now it's time to go to guildlines of DFD!
+Lots of important points are already told below but now it's time to go to the guildlines of DFD!
