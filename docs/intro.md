@@ -16,7 +16,7 @@ In terms of Web3, there should be lots of products and services replacing Web2 c
 About DAO, same things applies and DAO's ecosystem is not defined that much and in some area systems are broken and not cool, so fundamentally thinking there should be more components and modules for DAOs.
 
 We, as a DAO, tackle this issue at the same time pursuring how it should be as a DAO.
-This means we build things but also research Web3 and DAO routinely.
+This means we build things but also research Web3 and DAO, and other state-of-the-art techs routinely.
 
 ## By DAO we mean
 
@@ -29,7 +29,7 @@ As a DAO that provide products, we mean
 - we prefer onchain identity/data/activity as much as possible, rather than offchain
 - chain-agnostic; we fairly value blockchains and use blockchains in a more suitable way with other technologies
 - we prefer permissionlessness, transparency as much as possible, about things that should be
-- we prefer essential activities and validations, rather than pessimistic motivation and discussion; we welcome productive criticism, but it has to include better execution
+- we prefer essential activities and validations, rather than pessimistic motivation and discussion; we welcome productive criticism, but it has to include better proposal and/or execution
 - we all try to adopt and build fair, cool ecosystem, as technically as possible
 - there's no illogical discrimination as a person; which means kind of meritocracy but fair
 - we value autonomous motivation and actions; basically we all can't force someone about working time, but we should be collaborative and communicative for the project and its other members.
@@ -45,4 +45,4 @@ As a DAO that provide products, we mean
 
 ## Intro Done
 
-Lots of important points are already told below but now it's time to go to the guildlines of DFD!
+Lots of important points are already told above but now it's time to go to the guildlines of DFD!
