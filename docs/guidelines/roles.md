@@ -12,6 +12,6 @@ responsible for the DFD's overall directions and decisions.
 - **Hacker**<br />
 subDAO role. responsible for the development of a subDAO's product.
 - **Hipster**<br />
-subDAO role. resonsible for the UI/UX design of a subDAO's product.
+subDAO role. responsible for the UI/UX design of a subDAO's product.
 - **Hustler**<br />
 subDAO role. responsible for the business development of a subDAO's product.
