@@ -28,7 +28,7 @@ const config = {
   },
 
   plugins: [
-    function myPlugin(context, options) {
+    async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
         configurePostCss(postcssOptions) {
@@ -137,6 +137,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+      }
     }),
 };
 
