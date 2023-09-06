@@ -13,5 +13,5 @@ If you are a builder who have experiences of building your own things or bootstr
 - "That DAO I felt was cool at first turned into just a kind of agency or educating community".<br />
 
 Then, you might be comfortable in this DAO.<br />
-We love big, socially and technically meaningful impacts, and to make it happen, we do build 10x awesome products in a 10x awesome organization.<br />
-For this reason, DFD prefer long-time contributors, rather than short-time.
+**We love big, socially and technically meaningful impacts, and to make it happen, we do build 10x awesome products in a 10x awesome organization.**<br />
+For this reason, **DFD prefer long-time contributors, rather than short-time**.
