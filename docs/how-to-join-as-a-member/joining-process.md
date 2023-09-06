@@ -15,13 +15,7 @@ However, we want to build our mediating organizational, systematic infrastructur
 
 ### 1. Shill Yourself to Application Form
 
-google form or something link
-
-- resume, cv,
-- other wonderful experiences not in resume
-- linkedin, github, dribble
-- portfolio or your site
-- your motivation to DFD
+Apply from [here](https://tally.so/r/mRMlPP)!
 
 ### 2. Deposit
 
