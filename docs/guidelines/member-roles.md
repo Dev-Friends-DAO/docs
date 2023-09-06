@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Roles
+# Member Roles
 
 There are clear roles in this DAO.<br />
 Members can hold multiple roles, but do understand your skills and time constraints, and affected people and projects. Basically subDAOs are not one-person projects. In addition, you should think it's important to communicate effectively with other members.
