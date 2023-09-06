@@ -23,26 +23,26 @@ This means we build things but also research Web3 and DAO, and other state-of-th
 DAO's definition varies from person to person, which is because DAO has changed its shape day by day.
 However, because we lose sense if we all stop thinking and see one type of DAO as a definite DAO, so it's really important that we predefine.
 
-Dev Friends DAO is a DAO that unites subDAOs that bootstrap and operate projects.
+**Dev Friends DAO is a DAO that unites subDAOs that bootstrap and operate projects.**
 
 As a DAO that provide products, we mean
-- we prefer onchain identity/data/activity as much as possible, rather than offchain
-- chain-agnostic; we fairly value blockchains and use blockchains in a more suitable way with other technologies
-- we prefer permissionlessness, transparency as much as possible, about things that should be
+- we prefer **onchain identity/data/activity** as much as possible, rather than offchain
+- **chain-agnostic**; we fairly value blockchains and use blockchains in a more suitable way with other technologies
+- we prefer **permissionlessness**, **transparency** as much as possible, about things that should be
 - we prefer essential activities and validations, rather than pessimistic motivation and discussion; we welcome productive criticism, but it has to include better proposal and/or execution
-- we all try to adopt and build fair, cool ecosystem, as technically as possible
-- there's no illogical discrimination as a person; which means kind of meritocracy but fair
-- we value autonomous motivation and actions; basically we all can't force someone about working time, but we should be collaborative and communicative for the project and its other members.
-- we can communicate and move things forward asyncronously
+- we all try to adopt and build **fair, cool ecosystem, as technically as possible**
+- there's **no illogical discrimination as a person**; which means kind of meritocracy but fair
+- we value **autonomous motivation and actions**; basically we all can't force someone about working time, but we should be **collaborative and communicative** for the project and its other members.
+- we can communicate and move things forward **asyncronously**
 - there are clear roles and basically Dev Friends DAO's direction is determined by Governors
-- however, DFD members join this DAO as sole proprietors, so they are responsible for the legal liability about all the individual activities they do and the subDAO's activities they are in
-- ragequit is OK, but you have to contribute till the goal of the subDAO is achieved if you are joining a subDAO
-- DFD's sale as a DAO is comprised of two parts; products' business model and products' buyout; we don't do contracted developments
-- rewards to members are payed from the sale directly, regardless of the kinds of currencies; if it's a token via contract and if it's not via our own backend API, but some percent of the sale is accumulated to DFD treasury (might use some payroll product)
+- however, **DFD members join this DAO as sole proprietors, so they are responsible for the legal liability** about all the individual activities they do and the subDAO's activities they are in
+- **ragequit is OK, but you have to contribute till the goal of the subDAO is achieved** if you are joining a subDAO
+- DFD's sale as a DAO is comprised of two parts; **products' business model and products' buyout**; we don't do contracted developments
+- **rewards to members are payed from the sale directly, regardless of the kinds of currencies**; if it's a token via contract and if it's not via our own backend API, but some percent of the sale is accumulated to DFD treasury (might use some payroll product)
 - we all are professional enough in some field to achieve the associated role by themselfs basically
 - the number of the DFD members who belong to a subDAO is 1 to 5; we're professional enough to build things and in some cases 1 is enough
-- however, we are all cooperative, so we try to help other subDAOs we're not belong to because we are friends with each other
-- as you can see, DFD want to exist as a sustainable and profitable DAO, whereas subDAOs are created and dumped many times
+- however, we are all cooperative, so we try to help other subDAOs we're not belong to because **we are friends with each other**
+- as you can see, **DFD want to exist as a sustainable and profitable DAO, whereas subDAOs are created and dumped many times**
 
 ## Intro Done
 

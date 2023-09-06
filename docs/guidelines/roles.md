@@ -9,7 +9,7 @@ Members can hold multiple roles, but do understand your skills and time constrai
 
 - **Governor**<br />
 responsible for the DFD's overall directions and decisions.<br />
-Governors who created the DFD foundation are called as "Initial Governors"
+Governors who created the DFD foundation are called as **Initial Governors**.
 - **Hacker**<br />
 subDAO role. responsible for the development of a subDAO's product.
 - **Hipster**<br />

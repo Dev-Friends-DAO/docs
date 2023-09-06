@@ -37,7 +37,7 @@ export default function Home() {
         {/* <HomepageFeatures /> */}
         <div className='bg-[#ff0000] py-14'>
           <p className="text-center text-2xl text-white font-medium">
-            Dev Friends DAO is a DAO that unites subDAO that bootstrap and operate a project.<br />
+            Dev Friends DAO is a DAO that unites subDAOs that bootstrap and operate projects.<br />
             We are building 10x awesome products in a 10x better organizational scheme.
           </p>
         </div>
