@@ -86,6 +86,16 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://discord.gg/WgWYXjdb',
+            label: 'Discord',
+            position: 'right',
+          },
+          {
+            href: 'https://twitter.com/DevFriendsDAO',
+            label: 'X (Twitter)',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/Dev-Friends-DAO',
             label: 'GitHub',
             position: 'right',
@@ -112,7 +122,7 @@ const config = {
                 href: 'https://discord.gg/WgWYXjdb',
               },
               {
-                label: 'Twitter',
+                label: 'X (Twitter)',
                 href: 'https://twitter.com/DevFriendsDAO',
               },
             ],
